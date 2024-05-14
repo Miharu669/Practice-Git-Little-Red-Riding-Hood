@@ -1,0 +1,84 @@
+h1 {
+    text-align: center;
+    color: rgb(229, 147, 147);
+    font-size: 60px;
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1vh;
+    border: 2px solid #ff9a9a ;
+    width: 1200px;
+    background-color: rgb(255, 187, 187);
+    border-radius: 5px;
+}
+.conclusion {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(216, 103, 103);
+}
+.lobo {
+    text-align: left;
+    color: rgb(80, 0, 0);
+    font-size: 14px;
+}
+.abuela {
+    text-align: left;
+    color: rgb(78, 3, 3);
+    font-size: 14px;
+}
+.caperucita {
+    text-align: left;
+    color: rgb(156, 65, 65);
+    font-size: 14px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(92, 3, 3);
+    font-size: 16px;
+    text-align: center;
+}
+html {
+    background-color: #fd8585;
+}
+.chapter1 {
+    margin: 100px
+}
+.chapter2 {
+    margin: 100px
+}
+.chapter3 {
+    margin: 100px
+}
+.conclusion {
+    text-align: left;
+    margin-left: 70vh;
+}
+.conversation {
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.abuela .caperucita .lobo {
+    overflow: hidden;
+}
+.box {
+    border:2px solid #750505 ;
+    margin: 40px auto;
+    padding: 10px;
+    overflow: hidden;
+    background-color: rgb(161, 1, 1);
+    border-radius: 5px;
+    width: 1000px;
+}
+.conversation-box {
+    border:2px solid #fc7b7b;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 600px;
+    width: 300;
+    margin: 20px auto;
+    overflow: hidden;
+    background-color:#f7c1c1 ;
+}
